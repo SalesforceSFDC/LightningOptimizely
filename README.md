@@ -14,6 +14,12 @@ Account - Master (Cirrus Layout - Account v2)
         - Enterprise (Cirrus Layout - Account v2)
         - Partner (Agency Account)
 
+### Skuid UI for Account
+* Name
+* Parent
+* 
+
+
 #### Fields
 Account Name
 Account Record Type
@@ -34,3 +40,4 @@ Last Meeting
 Total ARR Across Subscriptions
 Notes
 Product Users
+
