@@ -24,6 +24,9 @@ Account - Master (Cirrus Layout - Account v2)
 * Monthly Visits
 * Revenue 
 * Employees
+* Hierarchy Segment
+* Vertical
+* NAICS
 * 
 
 
