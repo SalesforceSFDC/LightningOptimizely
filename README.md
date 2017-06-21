@@ -17,6 +17,13 @@ Account - Master (Cirrus Layout - Account v2)
 ### Skuid UI for Account
 * Name
 * Parent
+* Website
+* Status
+* APS
+* Rating
+* Monthly Visits
+* Revenue 
+* Employees
 * 
 
 
